@@ -44,7 +44,7 @@
     - Archive Password: `Mi76#b>9mRed`
    - You can verify the authenticity of the file by its SHA1 hash: `ca39323730ed644fa534a2946506d4287f92a799`
      - To verify with 7-Zip, right click the file and select `7-Zip > CRC SHA > SHA1`
- - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/file/72plXYpY#B9A3vDidqPUVhfXDP5hWCS8lc90lcdGZsGfjuWkBDe8)
+ - [update.rpf and update2.rpf from GTA V build 2699](https://mega.nz/file/72plXYpY#B9A3vDidqPUVhfXDP5hWCS8lc90lcdGZsGfjuWkBDe8) <- Not Working
  - Some Patience and Technical Competence
 
 ### Dependencies
@@ -60,16 +60,16 @@
     - For editing the game files.
 
 ### Miscellaneous
- - [Rush Patches](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14641602/rush_patches-master.zip)
- - [DLL Patches](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/14965810/dll_patches_x.zip)
- - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
- - (OPTIONAL) [gIKgDXuVHNzIgXkiwpB.zip - Art Asset Leak](https://big.fileditchnew.ch/b9/gIKgDXuVHNzIgXkiwpB.zip)
+ - [Rush Patches](https://raw.githubusercontent.com/636k/gtav-sourcecode-build-guide/main/files/rush_patches-master.zip)
+ - [DLL Patches](https://raw.githubusercontent.com/636k/gtav-sourcecode-build-guide/main/files/dll_patches_x.zip)
+ - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw) <- Not Working
+ - (OPTIONAL) [gIKgDXuVHNzIgXkiwpB.zip - Art Asset Leak](https://big.fileditchnew.ch/b9/gIKgDXuVHNzIgXkiwpB.zip) <- Not Working
     - [Mirror Link](https://www.bojarcz.uk/gIKgDXuVHNzIgXkiwpB.zip), Thanks to [@RockstarAdvancedGameEngine](https://github.com/RockstarAdvancedGameEngine).
  - (OPTIONAL & NOT STABLE) [Visual Studio 2022 Patches](https://small.fileditchstuff.me/s10/VBlSfKBylNQplMIPLL.zip)
     - Presented by [@userTermzik](https://github.com/userTermzik), but i don't recommend this because it needs some modifications. 
 
 ## Prebuilt Files
- - [Shaders](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14649717/common.zip) ([You can build your own shaders and play with them without any problem.](#building-shaders))
+ - [Shaders](https://raw.githubusercontent.com/636k/gtav-sourcecode-build-guide/main/files/common.zip) ([You can build your own shaders and play with them without any problem.](#building-shaders))
  - Game Scripts (Already included, [You can build your own scripts and play with them without any problem.](#building-game-scripts))
  - [BankRelease EXE](https://drive.google.com/file/d/17Zkmoc_9RIJZNwKQyC5YWLJgf64TLuHQ/view?usp=sharing) (If you want to skip the "Building The Game Binary/Executable" step)
 
